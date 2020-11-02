@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/wiki/betaflight/betaflight/images/betaflight/bf_logo.png">
 
 En este repositorio iré posteando los consejos para ajustar los PID de **Betaflight 4.2.x**.  
-Recordad que para usar esta versión de Betaflight es necesario el **Betaflight Configurator version 10.7.0**.
+Recordad que para usar esta versión de Betaflight es necesario el **Betaflight Configurator version 10.7.0**.  
 El uso de esta información queda bajo la responsabilidad de cada usuario.
 
 En la version 4.2 tenemos los **Sliders**, comunmente llamadas "barritas" de los PID.      
