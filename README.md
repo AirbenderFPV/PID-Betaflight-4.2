@@ -1,5 +1,4 @@
-# PID-Betaflight-4.2
-
+# PID Betaflight 4.2
 
 <img src="https://raw.githubusercontent.com/wiki/betaflight/betaflight/images/betaflight/bf_logo.png">
 
