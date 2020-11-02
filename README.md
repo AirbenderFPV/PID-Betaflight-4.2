@@ -91,10 +91,10 @@ Ignacio de QuadMx nos pone ejemplos de hacia donde tienden los PIDs generalizado
 Por ejemplo, estos serian para Freestyle en un quad 5":  
 <img src="https://raw.githubusercontent.com/AirbenderFPV/PID-Betaflight-4.2/main/PIDejemploFreestyle.PNG">
 
-El **Master Multiplier** incrementado para contrarestar un poco el peso del quad. 
-El **PD Balance** mejora bounceback o situaciones en giros de 180º.
-El **P and D Gain** se mantiene para el propwash.
-El **Stick Response Gain** decrementado para suavizar los movimientos, si haces un freestyle mas agresivo recomiendo dejar el valor por defecto.
+El **Master Multiplier** incrementado para contrarestar un poco el peso del quad.   
+El **PD Balance** mejora bounceback o situaciones en giros de 180º.  
+El **P and D Gain** se mantiene para el propwash.   
+El **Stick Response Gain** decrementado para suavizar los movimientos, si haces un freestyle mas agresivo recomiendo dejar el valor por defecto.  
 
 Aún asi el tema de los PIDs es extenso y podemos ocasionar **daños** en el quad.  
 Recomiendo mirar los diferentes videos antes de hacer cualquier cambio si no dominamos en este campo.   
