@@ -101,7 +101,11 @@ Recomiendo mirar los diferentes videos antes de hacer cualquier cambio si no dom
 
 Español:
 
-[QuadMx] https://www.youtube.com/watch?v=peKCvpUwgF0
+[QuadMx - PIDs v4.2] https://www.youtube.com/watch?v=peKCvpUwgF0
+
+[QuadMx - Propwash v4.0] https://www.youtube.com/watch?v=MHbk5iikqzw
+
+[QuadMx - Filtros y PIDs v4.0] https://www.youtube.com/watch?v=QA1332j9dAM
 
 Ingles:
 
