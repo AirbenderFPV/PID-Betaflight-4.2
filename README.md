@@ -97,7 +97,12 @@ El **P and D Gain** se mantiene para el propwash.
 El **Stick Response Gain** decrementado para suavizar los movimientos, si haces un freestyle mas agresivo recomiendo dejar el valor por defecto.  
 
 Aún asi el tema de los PIDs es extenso y podemos ocasionar **daños** en el quad.  
-Recomiendo mirar los diferentes videos antes de hacer cualquier cambio si no dominamos en este campo.   
+Recomiendo mirar los diferentes videos antes de hacer cualquier cambio si no dominamos en este campo.  
+
+**Plasmatree PID Analyzer** es un programa recomendado para analizar y mejorar nuestros PID, ejemplo del resultado:  
+
+<img src="https://raw.githubusercontent.com/AirbenderFPV/PID-Betaflight-4.2/main/PID1-TBS Source Prueba.PNG">    
+<img src="https://raw.githubusercontent.com/AirbenderFPV/PID-Betaflight-4.2/main/PID12-TBS Source Prueba.PNG">    
 
 Español:
 
