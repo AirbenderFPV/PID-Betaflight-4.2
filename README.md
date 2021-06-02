@@ -103,6 +103,7 @@ Recomiendo mirar los diferentes videos antes de hacer cualquier cambio si no dom
 
 <img src="https://github.com/AirbenderFPV/PID-Betaflight-4.2/blob/main/PID1-TBS%20Source%20Prueba.png">    
 <img src="https://github.com/AirbenderFPV/PID-Betaflight-4.2/blob/main/PID12-TBS%20Source%20Prueba.png">    
+Podeis consultar el video de UAV Tech para mas informacion sobre esta herramienta  
 
 Español:
 
@@ -113,6 +114,8 @@ Español:
 [QuadMx - Filtros y PIDs v4.0] https://www.youtube.com/watch?v=QA1332j9dAM
 
 Ingles:
+
+[UAV Tech - How to use the PlasmaTree PID Analyzer] https://www.youtube.com/watch?v=a0E1ua_ASCQ  
 
 [Joshua Bardwell - Presets Betaflight] https://www.youtube.com/watch?v=eFTnlhQRCFo
 
