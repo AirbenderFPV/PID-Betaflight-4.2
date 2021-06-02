@@ -103,7 +103,9 @@ Recomiendo mirar los diferentes videos antes de hacer cualquier cambio si no dom
 
 <img src="https://github.com/AirbenderFPV/PID-Betaflight-4.2/blob/main/PID1-TBS%20Source%20Prueba.png">    
 <img src="https://github.com/AirbenderFPV/PID-Betaflight-4.2/blob/main/PID12-TBS%20Source%20Prueba.png">    
-Podeis consultar el video de UAV Tech para mas informacion sobre esta herramienta  
+Podeis consultar el video de UAV Tech para mas informacion sobre esta herramienta 
+Os dejo el enlace del proyecto   
+https://github.com/Plasmatree/PID-Analyzer   
 
 Español:
 
