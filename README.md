@@ -101,8 +101,8 @@ Recomiendo mirar los diferentes videos antes de hacer cualquier cambio si no dom
 
 **Plasmatree PID Analyzer** es un programa recomendado para analizar y mejorar nuestros PID, ejemplo del resultado:  
 
-<img src="https://raw.githubusercontent.com/AirbenderFPV/PID-Betaflight-4.2/main/PID1-TBS Source Prueba.PNG">    
-<img src="https://raw.githubusercontent.com/AirbenderFPV/PID-Betaflight-4.2/main/PID12-TBS Source Prueba.PNG">    
+<img src="https://github.com/AirbenderFPV/PID-Betaflight-4.2/blob/main/PID1-TBS%20Source%20Prueba.png">    
+<img src="https://github.com/AirbenderFPV/PID-Betaflight-4.2/blob/main/PID12-TBS%20Source%20Prueba.png">    
 
 Español:
 
